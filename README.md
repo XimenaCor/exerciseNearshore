@@ -6,3 +6,4 @@ Start the project:
 3. On each folder run the command npm install (this will install the node-modules)
 4. On folder api run the command "npm start"
 5. On folder client run the command "ng serve"
+Note: There is no need of creating a database given that this will be created after the first event of saving.
